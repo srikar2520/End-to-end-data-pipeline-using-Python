@@ -31,7 +31,7 @@ Designed and built an end-to-end data engineering pipeline to ingest, validate, 
 ## 💻 How to Run
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/srikar2520/Retail-Real-Time-Ingestion.git](https://github.com/srikar2520/Retail-Real-Time-Ingestion.git)
+    https://github.com/srikar2520/Retail-Real-Time-Ingestion.git 
     ```
 2.  **Install dependencies:**
     ```bash
